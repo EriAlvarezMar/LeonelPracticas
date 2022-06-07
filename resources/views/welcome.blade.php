@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ALCID</title>
-    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="css/style.css">
     <link rel="shortcut icon" href="img/astro.png"> <!--Change 1 | Agrego de logo-->
 </head>
 <body>
@@ -17,7 +17,6 @@
                     <a href="#practices-section"> <b>Plan de practicas</b> </a>
                     <a href="#contact-section"> <b>Contacto</b> </a>
                     <a href="#universidad-section"> <b>UTP (Pagina)</b> </a> <!--Change 2 | Se agrego apartado de la universidad-->
-
                 </nav>
             </div>
         </div>
